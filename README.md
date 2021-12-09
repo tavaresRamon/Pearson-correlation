@@ -1,7 +1,7 @@
  
-                                    Sistema que calcula o coeficiente de correlação através da fórmula de Pearson
-                           Lembrando que para uma correlação mais eficiente devemos usar variáveis contínuas ou discretas
-                                             Desenvolvedor do Projeto: [Ramon L. O. Tavares]
+                             Sistema que calcula o coeficiente de correlação através da fórmula de Pearson
+                        Lembrando que para uma correlação mais eficiente devemos usar variáveis contínuas ou discretas
+                                           Desenvolvedor do Projeto: [Ramon L. O. Tavares]
 -------------------------------------------------------------------
 Amostra de tamanho [9]
 Varíáveis do eixo X : [1378.0, 1292.0, 1146.0, 854.0, 973.0, 996.0, 1241.0, 1208.0, 1045.0]
