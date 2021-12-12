@@ -10,8 +10,8 @@ public class ProjetoDePeason {
         System.out.println("Desenvolvedor do Projeto: [Ramon L. O. Tavares]");
         System.out.println("-------------------------------------------------------------------");
 //Inserir variáveis contínuas ou discretas para uma análise mais precisa com a correlação de Pearson
-        List<Double> varX = new ArrayList<>(List.of(1378.0, 1292.0, 1146.0, 854.0, 973.0, 996.0, 1241.0, 1208.0, 1045.0));
-        List<Double> varY = new ArrayList<>(List.of(154.0, 145.0, 110.0, 98.0, 105.0, 118.0, 143.0, 105.0, 112.0));
+        List<Double> varX = List.of(1378.0, 1292.0, 1146.0, 854.0, 973.0, 996.0, 1241.0, 1208.0, 1045.0);
+        List<Double> varY = List.of(154.0, 145.0, 110.0, 98.0, 105.0, 118.0, 143.0, 105.0, 112.0);
         //Tamanho da amostra = n :
         int n = varX.size();
 
