@@ -1,7 +1,7 @@
  [Ramon L. O. Tavares]
                            
                            Sistema que calcula o coeficiente de correlação através da fórmula de Pearson
-                        Lembrando que para uma correlação mais eficiente devemos usar variáveis contínuas ou discretas
+                       
                                             
 -------------------------------------------------------------------
 Amostra de tamanho [9]
